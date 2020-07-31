@@ -1,4 +1,4 @@
-package org.wildfly.s2i.model;
+package org.wildfly.task.model;
 
 import java.io.Serializable;
 
